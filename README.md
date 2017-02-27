@@ -7,7 +7,7 @@ Class: Computer Programming 1st block
  
  
 ==Description== 
- Jackson Gators is a swim team located in Jackson, TN. This website was made to inform residents of Jackson TN about the team and give them contact information. 
+Jackson Gators is a swim team located in Jackson, TN. This website was made to inform residents of Jackson TN about the team and give them contact information. 
   
  ==Pages== 
   
