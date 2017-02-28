@@ -14,13 +14,13 @@
     <div class="header">
     <header>
       <a href="index.html" class="home selected">Home</a>
-      <a href="pics.html" class="links">Pictures</a>
-      <a href="cuts.html" class="links">Times</a>
-      <a href="coaches.html" class="links">Coaches</a>
-      <a href="goal.html" class="links">Goal</a>
-      <a href="join.html" class="links">Join</a>
-      <a href="location.html" class="links">Location</a>
       <a href="contact.html" class="links">Contact</a> 
+      <a href="location.html" class="links">Location</a>
+      <a href="join.html" class="links">Join</a>
+      <a href="goal.html" class="links selected">Goal</a>
+      <a href="coaches.html" class="links">Coaches</a>
+      <a href="cuts.html" class="links">Times</a>
+      <a href="pics.html" class="links">Pictures</a>     
     </header>
     </div>
     <h1 class="title logoheader"><a href="index.html" class="title">Jackson Gators</a></h1>
