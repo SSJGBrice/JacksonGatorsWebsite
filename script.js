@@ -167,4 +167,5 @@ var opts = {
     fullScreen : true, 
     swipe : true
 };
-makeslideshow('.demo1', opts);
+makeslideshow('.demo1',  opts);                                             
+                                                                                                                                                                                                                                                                                                        
